@@ -1,0 +1,16 @@
+.tittle-background {
+    color: azure;
+}
+
+.big-banner{
+    background-image: url('/assets/images/dave-ruck-1075684-unsplash.jpg')
+}
+
+.navbar {
+    background-color: transparent;
+}
+
+.jumbotron {
+    margin-bottom: 0px;
+    border-radius: 0px;
+}
