@@ -1,4 +1,4 @@
-.tittle-background {
+.title-background {
     color: azure;
 }
 
@@ -14,3 +14,26 @@
     margin-bottom: 0px;
     border-radius: 0px;
 }
+
+.nav-link{
+    color: white;
+}
+
+.navbar-nav {
+    font-size: 1.85rem;
+    padding-left: 10.5rem;
+    padding-right: 10.5rem;
+    padding-bottom: 30px;
+}
+
+.justify-content-center {
+    margin-bottom: -95px;
+}
+
+.nav-item{
+    padding-right: 100px;
+}
+
+/* .navbar-toggler-icon{
+    position: center;
+} */
