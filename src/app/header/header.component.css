@@ -20,7 +20,7 @@
 }
 
 .navbar-nav {
-    font-size: 1.85rem;
+    font-size: 1.65rem;
     padding-left: 10.5rem;
     padding-right: 10.5rem;
     padding-bottom: 30px;
@@ -33,7 +33,3 @@
 .nav-item{
     padding-right: 100px;
 }
-
-/* .navbar-toggler-icon{
-    position: center;
-} */
