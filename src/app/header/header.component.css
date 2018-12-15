@@ -11,8 +11,9 @@
 }
 
 .jumbotron {
-    margin-bottom: 0px;
-    border-radius: 0px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    margin: 35px;
 }
 
 .nav-link{
@@ -20,7 +21,7 @@
 }
 
 .navbar-nav {
-    font-size: 1.65rem;
+    font-size: 1.55rem;
     padding-left: 10.5rem;
     padding-right: 10.5rem;
     padding-bottom: 30px;

@@ -1,9 +1,20 @@
 .nav{
-    background-color: rgba(86,61,124,.15);
+    background-color: rgba(231, 229, 235, 0.15);
     border: 1px solid rgba(86,61,124,.2);
     border-radius: 8px;
+    height: 250px;
+    margin: 20px;
+    margin-top: 0px;
 }
 
-.mini-nav{
-    height: 100px;
+.nav-link{
+    color: black;
+}
+
+a:hover{
+    color: white;
+}
+
+.nav-link:hover{
+    background-color: red;
 }

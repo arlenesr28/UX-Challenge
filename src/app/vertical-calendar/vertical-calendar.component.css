@@ -1,0 +1,8 @@
+.check-in{
+    background-color: rgba(231, 229, 235, 0.15);
+    border: 1px solid rgba(86,61,124,.2);
+    border-radius: 8px;
+    height: 475px;
+    margin: 15px;
+    margin-top: -50px;
+}

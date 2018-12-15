@@ -1,0 +1,36 @@
+.navbar{
+    border: 1px solid rgba(86,61,124,.2);
+    border-radius: 8px;
+    height: 300px;
+    margin: 15px;
+    margin-top: 0px;
+    margin-left: -10px;
+    background-image: url('/assets/images/armchair-art-chair-696407.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 75%;
+    background-size: cover;
+}
+
+.img-person-key{
+    width:30px;
+    height:30px;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    height: calc(2.25rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    background-color: transparent;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+}
+
+.btn-primary{
+    border-radius: 5rem;
+    margin: 1rem;
+    background-color: black;
+}
