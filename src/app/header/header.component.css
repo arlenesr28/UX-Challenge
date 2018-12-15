@@ -3,7 +3,11 @@
 }
 
 .big-banner{
-    background-image: url('/assets/images/dave-ruck-1075684-unsplash.jpg')
+    /* background-image: url('/assets/images/dave-ruck-1075684-unsplash.jpg') */
+    background-image: url('/assets/images/dave-ruck-1075684-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-position: 40% 55%;
+    background-size: cover;
 }
 
 .navbar {
@@ -28,7 +32,8 @@
 }
 
 .justify-content-center {
-    margin-bottom: -95px;
+    margin-bottom: -145px;
+    margin-top: -95px;
 }
 
 .nav-item{

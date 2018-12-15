@@ -1,8 +1,11 @@
 .weather{
-    background-color: rgba(231, 229, 235, 0.15);
+    background-image: url('/assets/images/beautiful-clouds-cloudy-209831.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 60%;
+    background-size: cover;
     border: 1px solid rgba(86,61,124,.2);
     border-radius: 8px;
-    height: 350px;
+    height: 550px;
     margin: 15px;
     margin-top: 0px;
     margin-left: -10px;
