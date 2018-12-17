@@ -39,3 +39,11 @@
 .nav-item{
     padding-right: 100px;
 }
+
+a:hover{
+    color: black;
+}
+
+.nav-link:hover{
+    background-color: azure;
+}

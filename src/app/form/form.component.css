@@ -17,16 +17,17 @@
 }
 
 .form-control {
-    display: block;
+    display: -webkit-inline-flex;
     width: 100%;
     height: calc(2.25rem + 2px);
     padding: .375rem .75rem;
     font-size: 1rem;
     line-height: 1.5;
     background-color: transparent;
-    background-clip: padding-box;
-    border: 1px solid #ced4da;
-    border-radius: .25rem;
+    border-inline-end: 0px;
+    border-inline-start: 0px;
+    border-top: 0px;
+    color: white;
 }
 
 .btn-primary{
