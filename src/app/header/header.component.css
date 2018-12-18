@@ -3,7 +3,6 @@
 }
 
 .big-banner{
-    /* background-image: url('/assets/images/dave-ruck-1075684-unsplash.jpg') */
     background-image: url('/assets/images/dave-ruck-1075684-unsplash.jpg');
     background-repeat: no-repeat;
     background-position: 40% 55%;
@@ -25,7 +24,7 @@
 }
 
 .navbar-nav {
-    font-size: 1.55rem;
+    font-size: 1.35rem;
     padding-left: 10.5rem;
     padding-right: 10.5rem;
     padding-bottom: 30px;
@@ -38,6 +37,7 @@
 
 .nav-item{
     padding-right: 100px;
+    /* border-right: 1px solid white; */
 }
 
 a:hover{
@@ -46,4 +46,18 @@ a:hover{
 
 .nav-link:hover{
     background-color: azure;
+}
+
+.navbar-toggler-icon{
+    color: white;
+    border-bottom-color: white;
+}
+
+.navbar-toggler {
+    padding: .25rem .75rem;
+    font-size: 1.25rem;
+    line-height: 2;
+    background-color: transparent;
+    border: 1px solid transparent;
+    border-radius: .25rem;
 }

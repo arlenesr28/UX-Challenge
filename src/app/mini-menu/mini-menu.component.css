@@ -17,4 +17,5 @@ a:hover{
 
 .nav-link:hover{
     background-color: red;
+    box-shadow: 5px 0px red;
 }
