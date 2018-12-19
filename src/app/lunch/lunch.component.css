@@ -7,6 +7,15 @@
     margin-top: 0px;
     background-image: url('/assets/images/barbecue-barbeque-bbq-1268551.jpg');
     background-repeat: no-repeat;
-    background-position: 70% 65%;
+    background-position: 90% 69%;
     background-size: cover;
+}
+
+.text-center{
+    color: white;
+    padding: 0px;
+}
+
+.text-options{
+    font-size: 0.80rem;
 }
