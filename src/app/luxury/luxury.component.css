@@ -1,7 +1,7 @@
 .luxury{
-    background-image: url('/assets/images/apartment-brick-wall-contemporary-945688.jpg');
+    background-image: url('/assets/images/chair-contemporary-cushions-1439965.jpg');
     background-repeat: no-repeat;
-    background-position: 50% 55%;
+    background-position: 50% 50%;
     background-size: cover;
     border: 1px solid rgba(86,61,124,.2);
     border-radius: 8px;
@@ -9,4 +9,31 @@
     margin: 15px;
     margin-top: 0px;
     margin-left: -10px;
+
+    padding: 50px;
+    font-size: 2.00rem;
+}
+
+.text-center{
+    color: white;
+    padding: 0px;
+}
+
+.text-options{
+    font-size: 1.00rem;
+}
+
+.line{
+    color: white;
+}
+
+.btn{
+    border-radius: 5rem;
+    margin: 1rem;
+    background-color: white;
+}
+
+.btn:hover{
+    background-color: darkgray;
+    color: white;
 }
