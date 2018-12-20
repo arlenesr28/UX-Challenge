@@ -15,6 +15,7 @@ import { LunchComponent } from './lunch/lunch.component';
 import { RateTrendComponent } from './rate-trend/rate-trend.component';
 import { CommentsComponent } from './comments/comments.component';
 import { VideoComponent } from './video/video.component';
+import { BsDatepickerModule } from 'ngx-bootstrap/datepicker';
 
 @NgModule({
   declarations: [
@@ -34,7 +35,8 @@ import { VideoComponent } from './video/video.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    BsDatepickerModule.forRoot()
   ],
   providers: [],
   bootstrap: [AppComponent]

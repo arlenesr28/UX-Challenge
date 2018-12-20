@@ -37,3 +37,7 @@
     background-color: red;
     color: white;
 }
+
+.input-group-append {
+    border: none;
+}

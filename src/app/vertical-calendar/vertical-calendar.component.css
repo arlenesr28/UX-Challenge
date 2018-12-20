@@ -1,11 +1,52 @@
 .check-in{
-    background-image: url('/assets/images/fog-foggy-forest-279626.jpg');
+    background-image: url('/assets/images/deborah-diem-541112-unsplash.jpg');
     background-repeat: no-repeat;
-    background-position: 50% 75%;
+    background-position: 60% 75%;
     background-size: cover;
     border: 1px solid rgba(86,61,124,.2);
     border-radius: 8px;
     height: 460px;
     margin: 15px;
     margin-top: 20px;
+}
+
+.text-center {
+    color: white;
+    padding: 15px;
+}
+
+.form-control{
+    background-color: transparent;
+    border-bottom-color: white;
+    background-color: transparent;
+    border-left-color: transparent;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-bottom-left-radius: 0px;
+    color: white;
+}
+
+::placeholder{
+    color: white;
+}
+
+.input-group-append {
+    border: none;
+}
+
+.btn{
+    border-radius: 5rem;
+    margin: 0.35rem;
+    background-color: white;
+}
+
+.btn:hover{
+    background-color: darkgray;
+    color: white;
+}
+
+.Select{
+    background-color: transparent;
+    color: white;
+    border: none;
 }

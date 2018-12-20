@@ -1,3 +1,38 @@
-<div class="check-in">
+<link rel="stylesheet" href="https://unpkg.com/ngx-bootstrap/datepicker/bs-datepicker.css"> 
 
+<div class="check-in text-uppercase">
+    <div class="row justify-content-center">
+        <div class="form-group">
+            <h5 class="text-center text-uppercase">check in</h5>
+            <div class="input-group mb-3">
+                <input type="text" placeholder="MM/DD/YYYY" class="form-control" bsDatepicker>
+                <div class="input-group-append">
+                    <i class="fas fa-calendar-alt" style='font-size:25px;color:white'></i>
+                </div>
+            </div> 
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="form-group">
+            <h5 class="text-center text-uppercase">check out</h5>
+            <div class="input-group mb-3">
+                <input type="text" placeholder="MM/DD/YYYY" class="form-control" bsDatepicker>
+                <div class="input-group-append">
+                    <i class="fas fa-calendar-alt" style='font-size:25px;color:white'></i>
+                </div>
+            </div> 
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <h5 class="text-center text-uppercase">guest</h5>
+        <select class="Select justify-content-center" id="inputGroupSelect02">
+            <option selected>Choose</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+        </select>
+    </div>   
+    <div class="row justify-content-center">
+        <button type="button" class="btn shadow-sm">Search</button>
+    </div>
 </div>
