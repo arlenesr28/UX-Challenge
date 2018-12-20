@@ -5,13 +5,13 @@
     background-size: cover;
     border: 1px solid rgba(86,61,124,.2);
     border-radius: 8px;
-    height: 550px;
+    height: 350px;
     margin: 15px;
     margin-top: 0px;
     margin-left: -10px;
 
     padding: 50px;
-    font-size: 2.00rem;
+    font-size: 1.50rem;
 }
 
 .text-center{
@@ -29,7 +29,7 @@
 
 .btn{
     border-radius: 5rem;
-    margin: 1rem;
+    margin: 0.35rem;
     background-color: white;
 }
 

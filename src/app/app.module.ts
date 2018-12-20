@@ -4,7 +4,6 @@ import { NgModule } from '@angular/core';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
-import { Section1Component } from './section1/section1.component';
 import { FormComponent } from './form/form.component';
 import { MiniMenuComponent } from './mini-menu/mini-menu.component';
 import { CalendarComponent } from './calendar/calendar.component';
@@ -21,7 +20,6 @@ import { VideoComponent } from './video/video.component';
   declarations: [
     AppComponent,
     HeaderComponent,
-    Section1Component,
     FormComponent,
     MiniMenuComponent,
     CalendarComponent,

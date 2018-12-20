@@ -7,3 +7,23 @@
     margin-left: 0px;
     width: auto;
 }
+
+.fab {
+    padding: 7px;
+    margin-right: 25px;
+}
+
+.fas{
+    padding: 7px;
+    margin-right: 25px;
+}
+
+.form-control{
+    background-color: transparent;
+    border-left-color: transparent;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    padding: 10px;
+}

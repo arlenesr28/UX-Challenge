@@ -29,6 +29,8 @@
     border-inline-start: 0px;
     border-top: 0px;
     color: white;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
 }
 
 .btn-primary{

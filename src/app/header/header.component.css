@@ -14,7 +14,7 @@
 }
 
 .jumbotron {
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     border-radius: 8px;
     margin: 35px;
 }
@@ -24,10 +24,10 @@
 }
 
 .navbar-nav {
-    font-size: 1.35rem;
-    padding-left: 10.5rem;
-    padding-right: 10.5rem;
-    padding-bottom: 30px;
+    font-size: 1.05rem;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 25px;
 }
 
 .justify-content-center {
@@ -54,7 +54,7 @@ a:hover{
 
 .navbar-toggler {
     padding: .25rem .75rem;
-    font-size: 1.25rem;
+    font-size: 0.75rem;
     line-height: 2;
     background-color: transparent;
     border: 1px solid transparent;
