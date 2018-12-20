@@ -27,3 +27,13 @@
     border-bottom-right-radius: 0px;
     padding: 10px;
 }
+
+.fas:hover{
+    background-color: red;
+    color: white;
+}
+
+.fab:hover{
+    background-color: red;
+    color: white;
+}
